@@ -1,6 +1,6 @@
 {
     "kind": "books#volumes",
-    "totalItems": 2308,
+    "totalItems": 2357,
     "items": [
               {
               "kind": "books#volume",
@@ -402,108 +402,8 @@
               },
               {
               "kind": "books#volume",
-              "id": "9V-9UbzfZXMC",
-              "etag": "AanR6YCD1kM",
-              "selfLink": "https://www.googleapis.com/books/v1/volumes/9V-9UbzfZXMC",
-              "volumeInfo": {
-              "title": "Wyrd Sisters",
-              "subtitle": "A Novel of Discworld",
-              "authors": [
-                          "Terry Pratchett"
-                          ],
-              "publisher": "Harper Collins",
-              "publishedDate": "2009-10-13",
-              "description": "Terry Pratchett’s fantasy classic Wyrd Sisters, a novel in the Discworld series, is the story of Granny Weatherwax, the most highly regarded non-leader a coven of non-social witches could ever have. Generally, these loners don't get involved in anything, mush less royal intrigue. but then there are those times they can't help it. As Granny Weatherwax is about to discover, though, it's a lot harder to stir up trouble in the castle than some theatrical types would have you think. Even when you've got a few unexpected spells up your sleeve. Granny Weatherwax teams with two other witches — Nanny Ogg and Margat Garlick - as an unlikely alliance to save a prince and restore him to the throne of Lancre, in a tale that borrows — or is it parodies — some of William Shakespeare's best-loved works.",
-              "industryIdentifiers": [
-                                      {
-                                      "type": "ISBN_10",
-                                      "identifier": "006180715X"
-                                      },
-                                      {
-                                      "type": "ISBN_13",
-                                      "identifier": "9780061807152"
-                                      }
-                                      ],
-              "readingModes": {
-              "text": true,
-              "image": false
-              },
-              "pageCount": 368,
-              "printType": "BOOK",
-              "categories": [
-                             "Fiction"
-                             ],
-              "averageRating": 4.0,
-              "ratingsCount": 85,
-              "maturityRating": "NOT_MATURE",
-              "allowAnonLogging": true,
-              "contentVersion": "0.6.5.0.preview.2",
-              "panelizationSummary": {
-              "containsEpubBubbles": false,
-              "containsImageBubbles": false
-              },
-              "imageLinks": {
-              "smallThumbnail": "http://books.google.com/books/content?id=9V-9UbzfZXMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail": "http://books.google.com/books/content?id=9V-9UbzfZXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-              },
-              "language": "en",
-              "previewLink": "http://books.google.com/books?id=9V-9UbzfZXMC&pg=PP1&dq=Pratchett&hl=&cd=5&source=gbs_api",
-              "infoLink": "https://play.google.com/store/books/details?id=9V-9UbzfZXMC&source=gbs_api",
-              "canonicalVolumeLink": "https://market.android.com/details?id=book-9V-9UbzfZXMC"
-              },
-              "saleInfo": {
-              "country": "US",
-              "saleability": "FOR_SALE",
-              "isEbook": true,
-              "listPrice": {
-              "amount": 9.99,
-              "currencyCode": "USD"
-              },
-              "retailPrice": {
-              "amount": 9.99,
-              "currencyCode": "USD"
-              },
-              "buyLink": "https://play.google.com/store/books/details?id=9V-9UbzfZXMC&rdid=book-9V-9UbzfZXMC&rdot=1&source=gbs_api",
-              "offers": [
-                         {
-                         "finskyOfferType": 1,
-                         "listPrice": {
-                         "amountInMicros": 9990000.0,
-                         "currencyCode": "USD"
-                         },
-                         "retailPrice": {
-                         "amountInMicros": 9990000.0,
-                         "currencyCode": "USD"
-                         },
-                         "giftable": true
-                         }
-                         ]
-              },
-              "accessInfo": {
-              "country": "US",
-              "viewability": "PARTIAL",
-              "embeddable": true,
-              "publicDomain": false,
-              "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
-              "epub": {
-              "isAvailable": true,
-              "acsTokenLink": "http://books.google.com/books/download/Wyrd_Sisters-sample-epub.acsm?id=9V-9UbzfZXMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-              },
-              "pdf": {
-              "isAvailable": false
-              },
-              "webReaderLink": "http://play.google.com/books/reader?id=9V-9UbzfZXMC&hl=&printsec=frontcover&source=gbs_api",
-              "accessViewStatus": "SAMPLE",
-              "quoteSharingAllowed": false
-              },
-              "searchInfo": {
-              "textSnippet": "Terry Pratchett’s fantasy classic Wyrd Sisters, a novel in the Discworld series, is the story of Granny Weatherwax, the most highly regarded non-leader a coven of non-social witches could ever have."
-              }
-              },
-              {
-              "kind": "books#volume",
               "id": "nNmN1oVtkEYC",
-              "etag": "p/3cHvuH2YU",
+              "etag": "bY5+kyPWG9A",
               "selfLink": "https://www.googleapis.com/books/v1/volumes/nNmN1oVtkEYC",
               "volumeInfo": {
               "title": "Thud!",
@@ -547,7 +447,7 @@
               "thumbnail": "http://books.google.com/books/content?id=nNmN1oVtkEYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
               },
               "language": "en",
-              "previewLink": "http://books.google.com/books?id=nNmN1oVtkEYC&pg=PP1&dq=Pratchett&hl=&cd=6&source=gbs_api",
+              "previewLink": "http://books.google.com/books?id=nNmN1oVtkEYC&pg=PP1&dq=Pratchett&hl=&cd=5&source=gbs_api",
               "infoLink": "https://play.google.com/store/books/details?id=nNmN1oVtkEYC&source=gbs_api",
               "canonicalVolumeLink": "https://market.android.com/details?id=book-nNmN1oVtkEYC"
               },
@@ -603,7 +503,7 @@
               {
               "kind": "books#volume",
               "id": "b3Wd5oZOxi4C",
-              "etag": "7jCbwgGIY+s",
+              "etag": "+Qn+h9fa/pU",
               "selfLink": "https://www.googleapis.com/books/v1/volumes/b3Wd5oZOxi4C",
               "volumeInfo": {
               "title": "Sourcery",
@@ -647,7 +547,7 @@
               "thumbnail": "http://books.google.com/books/content?id=b3Wd5oZOxi4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
               },
               "language": "en",
-              "previewLink": "http://books.google.com/books?id=b3Wd5oZOxi4C&pg=PP1&dq=Pratchett&hl=&cd=7&source=gbs_api",
+              "previewLink": "http://books.google.com/books?id=b3Wd5oZOxi4C&pg=PP1&dq=Pratchett&hl=&cd=6&source=gbs_api",
               "infoLink": "https://play.google.com/store/books/details?id=b3Wd5oZOxi4C&source=gbs_api",
               "canonicalVolumeLink": "https://market.android.com/details?id=book-b3Wd5oZOxi4C"
               },
@@ -702,25 +602,26 @@
               },
               {
               "kind": "books#volume",
-              "id": "LnnSS-W2XywC",
-              "etag": "YIMsZQkP7oA",
-              "selfLink": "https://www.googleapis.com/books/v1/volumes/LnnSS-W2XywC",
+              "id": "9V-9UbzfZXMC",
+              "etag": "a9pRo6dv2d4",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/9V-9UbzfZXMC",
               "volumeInfo": {
-              "title": "Dodger",
+              "title": "Wyrd Sisters",
+              "subtitle": "A Novel of Discworld",
               "authors": [
                           "Terry Pratchett"
                           ],
               "publisher": "Harper Collins",
-              "publishedDate": "2012-09-25",
-              "description": "Beloved and bestselling author Sir Terry Pratchett's Dodger, a Printz Honor Book, combines high comedy with deep wisdom in a tale of one remarkable boy's rise in a fantasy-infused Victorian London. Seventeen-year-old Dodger is content as a sewer scavenger. But he enters a new world when he rescues a young girl from a beating, and her fate impacts some of the most powerful people in England. From Dodger's encounter with the mad barber Sweeney Todd, to his meetings with the great writer Charles Dickens and the calculating politician Benjamin Disraeli, history and fantasy intertwine in a breathtaking account of adventure and mystery.",
+              "publishedDate": "2009-10-13",
+              "description": "Terry Pratchett’s fantasy classic Wyrd Sisters, a novel in the Discworld series, is the story of Granny Weatherwax, the most highly regarded non-leader a coven of non-social witches could ever have. Generally, these loners don't get involved in anything, mush less royal intrigue. but then there are those times they can't help it. As Granny Weatherwax is about to discover, though, it's a lot harder to stir up trouble in the castle than some theatrical types would have you think. Even when you've got a few unexpected spells up your sleeve. Granny Weatherwax teams with two other witches — Nanny Ogg and Margat Garlick - as an unlikely alliance to save a prince and restore him to the throne of Lancre, in a tale that borrows — or is it parodies — some of William Shakespeare's best-loved works.",
               "industryIdentifiers": [
                                       {
-                                      "type": "ISBN_13",
-                                      "identifier": "9780062190154"
+                                      "type": "ISBN_10",
+                                      "identifier": "006180715X"
                                       },
                                       {
-                                      "type": "ISBN_10",
-                                      "identifier": "0062190156"
+                                      "type": "ISBN_13",
+                                      "identifier": "9780061807152"
                                       }
                                       ],
               "readingModes": {
@@ -730,48 +631,48 @@
               "pageCount": 368,
               "printType": "BOOK",
               "categories": [
-                             "Young Adult Fiction"
+                             "Fiction"
                              ],
-              "averageRating": 3.5,
-              "ratingsCount": 96,
+              "averageRating": 4.0,
+              "ratingsCount": 85,
               "maturityRating": "NOT_MATURE",
               "allowAnonLogging": true,
-              "contentVersion": "1.5.6.0.preview.2",
+              "contentVersion": "0.6.5.0.preview.2",
               "panelizationSummary": {
               "containsEpubBubbles": false,
               "containsImageBubbles": false
               },
               "imageLinks": {
-              "smallThumbnail": "http://books.google.com/books/content?id=LnnSS-W2XywC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-              "thumbnail": "http://books.google.com/books/content?id=LnnSS-W2XywC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              "smallThumbnail": "http://books.google.com/books/content?id=9V-9UbzfZXMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=9V-9UbzfZXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
               },
               "language": "en",
-              "previewLink": "http://books.google.com/books?id=LnnSS-W2XywC&pg=PP1&dq=Pratchett&hl=&cd=8&source=gbs_api",
-              "infoLink": "https://play.google.com/store/books/details?id=LnnSS-W2XywC&source=gbs_api",
-              "canonicalVolumeLink": "https://market.android.com/details?id=book-LnnSS-W2XywC"
+              "previewLink": "http://books.google.com/books?id=9V-9UbzfZXMC&printsec=frontcover&dq=Pratchett&hl=&cd=7&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=9V-9UbzfZXMC&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-9V-9UbzfZXMC"
               },
               "saleInfo": {
               "country": "US",
               "saleability": "FOR_SALE",
               "isEbook": true,
               "listPrice": {
-              "amount": 5.99,
+              "amount": 9.99,
               "currencyCode": "USD"
               },
               "retailPrice": {
-              "amount": 5.99,
+              "amount": 9.99,
               "currencyCode": "USD"
               },
-              "buyLink": "https://play.google.com/store/books/details?id=LnnSS-W2XywC&rdid=book-LnnSS-W2XywC&rdot=1&source=gbs_api",
+              "buyLink": "https://play.google.com/store/books/details?id=9V-9UbzfZXMC&rdid=book-9V-9UbzfZXMC&rdot=1&source=gbs_api",
               "offers": [
                          {
                          "finskyOfferType": 1,
                          "listPrice": {
-                         "amountInMicros": 5990000.0,
+                         "amountInMicros": 9990000.0,
                          "currencyCode": "USD"
                          },
                          "retailPrice": {
-                         "amountInMicros": 5990000.0,
+                         "amountInMicros": 9990000.0,
                          "currencyCode": "USD"
                          },
                          "giftable": true
@@ -786,23 +687,23 @@
               "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
               "epub": {
               "isAvailable": true,
-              "acsTokenLink": "http://books.google.com/books/download/Dodger-sample-epub.acsm?id=LnnSS-W2XywC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              "acsTokenLink": "http://books.google.com/books/download/Wyrd_Sisters-sample-epub.acsm?id=9V-9UbzfZXMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
               },
               "pdf": {
               "isAvailable": false
               },
-              "webReaderLink": "http://play.google.com/books/reader?id=LnnSS-W2XywC&hl=&printsec=frontcover&source=gbs_api",
+              "webReaderLink": "http://play.google.com/books/reader?id=9V-9UbzfZXMC&hl=&printsec=frontcover&source=gbs_api",
               "accessViewStatus": "SAMPLE",
               "quoteSharingAllowed": false
               },
               "searchInfo": {
-              "textSnippet": "Beloved and bestselling author Sir Terry Pratchett combines high comedy with deep wisdom in this tale of an unexpected coming-of-age and one remarkable boy&#39;s rise in a complex and fascinating world."
+              "textSnippet": "Terry Pratchett’s fantasy classic Wyrd Sisters, a novel in the Discworld series, is the story of Granny Weatherwax, the most highly regarded non-leader a coven of non-social witches could ever have."
               }
               },
               {
               "kind": "books#volume",
               "id": "BZ-NAQAAQBAJ",
-              "etag": "jp3aT+aau34",
+              "etag": "StwYjch3Xy4",
               "selfLink": "https://www.googleapis.com/books/v1/volumes/BZ-NAQAAQBAJ",
               "volumeInfo": {
               "title": "Raising Steam",
@@ -845,7 +746,7 @@
               "thumbnail": "http://books.google.com/books/content?id=BZ-NAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
               },
               "language": "en",
-              "previewLink": "http://books.google.com/books?id=BZ-NAQAAQBAJ&printsec=frontcover&dq=Pratchett&hl=&cd=9&source=gbs_api",
+              "previewLink": "http://books.google.com/books?id=BZ-NAQAAQBAJ&printsec=frontcover&dq=Pratchett&hl=&cd=8&source=gbs_api",
               "infoLink": "https://play.google.com/store/books/details?id=BZ-NAQAAQBAJ&source=gbs_api",
               "canonicalVolumeLink": "https://market.android.com/details?id=book-BZ-NAQAAQBAJ"
               },
@@ -900,8 +801,107 @@
               },
               {
               "kind": "books#volume",
+              "id": "LnnSS-W2XywC",
+              "etag": "ZEOac2KmPW0",
+              "selfLink": "https://www.googleapis.com/books/v1/volumes/LnnSS-W2XywC",
+              "volumeInfo": {
+              "title": "Dodger",
+              "authors": [
+                          "Terry Pratchett"
+                          ],
+              "publisher": "Harper Collins",
+              "publishedDate": "2012-09-25",
+              "description": "Beloved and bestselling author Sir Terry Pratchett's Dodger, a Printz Honor Book, combines high comedy with deep wisdom in a tale of one remarkable boy's rise in a fantasy-infused Victorian London. Seventeen-year-old Dodger is content as a sewer scavenger. But he enters a new world when he rescues a young girl from a beating, and her fate impacts some of the most powerful people in England. From Dodger's encounter with the mad barber Sweeney Todd, to his meetings with the great writer Charles Dickens and the calculating politician Benjamin Disraeli, history and fantasy intertwine in a breathtaking account of adventure and mystery.",
+              "industryIdentifiers": [
+                                      {
+                                      "type": "ISBN_13",
+                                      "identifier": "9780062190154"
+                                      },
+                                      {
+                                      "type": "ISBN_10",
+                                      "identifier": "0062190156"
+                                      }
+                                      ],
+              "readingModes": {
+              "text": true,
+              "image": false
+              },
+              "pageCount": 368,
+              "printType": "BOOK",
+              "categories": [
+                             "Young Adult Fiction"
+                             ],
+              "averageRating": 3.5,
+              "ratingsCount": 96,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": true,
+              "contentVersion": "1.5.6.0.preview.2",
+              "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+              },
+              "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=LnnSS-W2XywC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=LnnSS-W2XywC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=LnnSS-W2XywC&pg=PP1&dq=Pratchett&hl=&cd=9&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=LnnSS-W2XywC&source=gbs_api",
+              "canonicalVolumeLink": "https://market.android.com/details?id=book-LnnSS-W2XywC"
+              },
+              "saleInfo": {
+              "country": "US",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+              "amount": 5.99,
+              "currencyCode": "USD"
+              },
+              "retailPrice": {
+              "amount": 5.99,
+              "currencyCode": "USD"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=LnnSS-W2XywC&rdid=book-LnnSS-W2XywC&rdot=1&source=gbs_api",
+              "offers": [
+                         {
+                         "finskyOfferType": 1,
+                         "listPrice": {
+                         "amountInMicros": 5990000.0,
+                         "currencyCode": "USD"
+                         },
+                         "retailPrice": {
+                         "amountInMicros": 5990000.0,
+                         "currencyCode": "USD"
+                         },
+                         "giftable": true
+                         }
+                         ]
+              },
+              "accessInfo": {
+              "country": "US",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+              "epub": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.com/books/download/Dodger-sample-epub.acsm?id=LnnSS-W2XywC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+              "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=LnnSS-W2XywC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+              },
+              "searchInfo": {
+              "textSnippet": "Beloved and bestselling author Sir Terry Pratchett combines high comedy with deep wisdom in this tale of an unexpected coming-of-age and one remarkable boy&#39;s rise in a complex and fascinating world."
+              }
+              },
+              {
+              "kind": "books#volume",
               "id": "AR4mvx9Tn0QC",
-              "etag": "Zjy2WJ8VQtQ",
+              "etag": "ntUjdcDsGAY",
               "selfLink": "https://www.googleapis.com/books/v1/volumes/AR4mvx9Tn0QC",
               "volumeInfo": {
               "title": "Small Gods",
@@ -945,7 +945,7 @@
               "thumbnail": "http://books.google.com/books/content?id=AR4mvx9Tn0QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
               },
               "language": "en",
-              "previewLink": "http://books.google.com/books?id=AR4mvx9Tn0QC&pg=PP1&dq=Pratchett&hl=&cd=10&source=gbs_api",
+              "previewLink": "http://books.google.com/books?id=AR4mvx9Tn0QC&printsec=frontcover&dq=Pratchett&hl=&cd=10&source=gbs_api",
               "infoLink": "https://play.google.com/store/books/details?id=AR4mvx9Tn0QC&source=gbs_api",
               "canonicalVolumeLink": "https://market.android.com/details?id=book-AR4mvx9Tn0QC"
               },
@@ -1000,4 +1000,3 @@
               }
               ]
 }
-

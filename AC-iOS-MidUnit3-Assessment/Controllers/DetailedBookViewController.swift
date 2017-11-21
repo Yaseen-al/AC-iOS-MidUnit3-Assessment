@@ -44,7 +44,6 @@ class DetailedBookViewController: UIViewController {
             else{
                 bookImage.image = #imageLiteral(resourceName: "defaultBook")
             }
-            print(book.volumeInfo.industryIdentifiers[0].identifier)
         }
     }
     

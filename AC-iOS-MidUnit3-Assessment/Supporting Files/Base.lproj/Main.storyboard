@@ -133,7 +133,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Jeopardy" id="eqN-Y6-ipi"/>
+                    <tabBarItem key="tabBarItem" title="Jeopardy" image="faceWithQuestion" id="eqN-Y6-ipi"/>
                     <connections>
                         <outlet property="Category" destination="PDk-r1-VnI" id="bxf-p3-Hae"/>
                         <outlet property="QuestionPoints" destination="Evm-Dn-zks" id="Euf-Mg-u4E"/>
@@ -207,7 +207,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="Vg8-yB-pqC"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Books" id="Ci5-ws-a36"/>
+                    <tabBarItem key="tabBarItem" title="Books" selectedImage="books Small icon" id="Ci5-ws-a36"/>
                     <navigationItem key="navigationItem" id="Da3-cX-xbj"/>
                     <connections>
                         <outlet property="BooksSearchBar" destination="UDU-Wx-6nz" id="rWI-Rl-iGb"/>
@@ -222,7 +222,9 @@
         <scene sceneID="69k-Ih-sVM">
             <objects>
                 <navigationController id="Fm2-h0-adU" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Books" id="fnI-Uu-qAh"/>
+                    <tabBarItem key="tabBarItem" title="Books" image="books Small icon" id="fnI-Uu-qAh">
+                        <offsetWrapper key="titlePositionAdjustment" horizontal="0.0" vertical="0.0"/>
+                    </tabBarItem>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Hbh-pH-etz">
                         <rect key="frame" x="0.0" y="20" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -318,4 +320,8 @@
             <point key="canvasLocation" x="1737" y="870"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="books Small icon" width="24" height="24"/>
+        <image name="faceWithQuestion" width="32" height="32"/>
+    </resources>
 </document>

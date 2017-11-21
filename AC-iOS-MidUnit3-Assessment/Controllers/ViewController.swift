@@ -10,7 +10,9 @@ import UIKit
 
 class ViewController: UIViewController,UITextFieldDelegate {
     var myJeopardyQuestions = [JeopardyQuestion]()
-    var myPlayer: Player? = nil
+    
+    var myPlayer: Player?
+    
     @IBAction func nextQuestion(_ sender: UIButton) {
         if let player = myPlayer{
             player.nextQuestion()

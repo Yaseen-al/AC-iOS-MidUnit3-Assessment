@@ -11,13 +11,11 @@ import UIKit
 class ViewController: UIViewController,UITextFieldDelegate {
     var myJeopardyQuestions = [JeopardyQuestion]()
     var myPlayer: Player? = nil
-    
     @IBAction func nextQuestion(_ sender: UIButton) {
         if let player = myPlayer{
             player.nextQuestion()
             loadQuestion()
         }
-        print("the button is pressed")
     }
     @IBOutlet weak var score: UILabel!
     @IBOutlet weak var QuestionPoints: UILabel!
@@ -29,7 +27,7 @@ class ViewController: UIViewController,UITextFieldDelegate {
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
         guard let text = textField.text else {
             return false
-        }   
+        }
         if let player = myPlayer{
             if  player.checkAnswer(inputAnswer: text){
                 answerStatus.text = "That's a right answer"
@@ -42,7 +40,6 @@ class ViewController: UIViewController,UITextFieldDelegate {
                 resignFirstResponder()
             }
         }
-        print("the textField is pressed")
         return true
     }
     func loadData() {
@@ -60,9 +57,6 @@ class ViewController: UIViewController,UITextFieldDelegate {
                 }
             }
         }
-        //        for questions in myJeopardyQuestions{
-        //            print(questions.question)
-        //        }
     }
     func loadQuestion() {
         if let player = myPlayer{
@@ -72,6 +66,7 @@ class ViewController: UIViewController,UITextFieldDelegate {
             answerTextField.isEnabled = true
             answerTextField.text = ""
             Category.text = "Category: " + player.currentQuestion.category.title
+            answerStatus.text = "Please answer the Question"
             print(player.currentQuestion.answer)
         }
     }

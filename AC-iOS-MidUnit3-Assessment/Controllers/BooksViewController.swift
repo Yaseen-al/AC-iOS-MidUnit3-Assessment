@@ -43,9 +43,6 @@ class BooksViewController: UIViewController,UITableViewDelegate,UITableViewDataS
         }
         cell.textLabel?.text = bookSetup.volumeInfo.title
         cell.detailTextLabel?.text = bookSetup.saleInfo.listPrice.currencyCode + " " + bookSetup.saleInfo.listPrice.amount.description
-
-//        cell.imageView?.image = UIImage(data: bookSetup.volumeInfo.imageLinks.smallThumbnailToData)
-
         return cell
     }
     func loadBookData() {
@@ -63,9 +60,9 @@ class BooksViewController: UIViewController,UITableViewDelegate,UITableViewDataS
                 }
             }
         }
-        for book in myBooks{
-            print(book.volumeInfo.imageLinks.smallThumbnail)
-        }
+        //        for book in myBooks{
+        //            print(book.volumeInfo.imageLinks.smallThumbnail)
+        //        }
     }
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -76,7 +73,6 @@ class BooksViewController: UIViewController,UITableViewDelegate,UITableViewDataS
         // Do any additional setup after loading the view.
     }
     
-    
     // MARK: - Navigation
     // In a storyboard-based application, you will often want to do a little preparation before navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
@@ -86,5 +82,5 @@ class BooksViewController: UIViewController,UITableViewDelegate,UITableViewDataS
         }
     }
     
-
+    
 }

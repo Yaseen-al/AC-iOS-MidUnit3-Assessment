@@ -39,12 +39,6 @@ struct PriceWraper: Codable {
 struct ImageWraper: Codable {
     var smallThumbnail: String
     var thumbnail: String
-//    var smallThumbnailToData: Data{
-//        let myURL = URL(string: smallThumbnail)
-//        let data = try! Data(contentsOf: myURL!)
-//        return data
-//    }
-    
 }
 
 

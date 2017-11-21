@@ -26,8 +26,12 @@ struct VolumeInfoWraper: Codable {
     var averageRating: Double?
     var ratingsCount: Int?
     var categories: [String]?
+    var industryIdentifiers: [industryIdentifiersWraper]
 
-
+}
+struct industryIdentifiersWraper: Codable {
+    var type: String
+    var identifier: String
 }
 struct SaleInfoWraper: Codable {
     var listPrice: PriceWraper

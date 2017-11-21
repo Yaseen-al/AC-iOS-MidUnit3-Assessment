@@ -32,10 +32,10 @@ class DetailedBookViewController: UIViewController {
             let imageLink = book.volumeInfo.imageLinks.thumbnail
             print(imageLink)
             if let safeBookSubtitle = book.volumeInfo.subtitle{
-                bookSubtitle.text = "Subtitle: " + safeBookSubtitle
+                bookSubtitle.text = "Subtitle: " + safeBookSubtitle + ", ISBN_13 Code : \(book.volumeInfo.industryIdentifiers[0].identifier)"
             }
             else{
-                bookSubtitle.text = "Book Subtitle Unavailable"
+                bookSubtitle.text = "Book Subtitle Unavailable" + ", ISBN_13 Code : \(book.volumeInfo.industryIdentifiers[0].identifier)"
             }
             let myURL = URL(string: imageLink)
             if let data = try? Data(contentsOf: myURL!){
@@ -44,6 +44,7 @@ class DetailedBookViewController: UIViewController {
             else{
                 bookImage.image = #imageLiteral(resourceName: "defaultBook")
             }
+            print(book.volumeInfo.industryIdentifiers[0].identifier)
         }
     }
     

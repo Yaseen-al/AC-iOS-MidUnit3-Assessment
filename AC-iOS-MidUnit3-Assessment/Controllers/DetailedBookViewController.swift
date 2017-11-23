@@ -10,7 +10,6 @@ import UIKit
 
 class DetailedBookViewController: UIViewController {
     var book: Book? = nil
-    
     @IBOutlet weak var bookImage: UIImageView!
     @IBOutlet weak var bookPrice: UILabel!
     @IBOutlet weak var bookSummary: UITextView!
@@ -46,8 +45,6 @@ class DetailedBookViewController: UIViewController {
             }
         }
     }
-    
-
     /*
     // MARK: - Navigation
 
